@@ -27,3 +27,10 @@ spring.datasource.url=jdbc:mysql://<mysql-imageName>:<port number> /dbName
 ##### **End Points**
 
 http://localhost:8085/swagger-ui.html
+
+
+
+**Build Images using maven docker spotify plugin**
+    `* Add plugin in pom.xml
+    * run maven command 
+     * mvn package`
