@@ -36,3 +36,6 @@ http://localhost:8085/swagger-ui.html
     * Add plugin in pom.xml
     * run maven command 
     * mvn package
+ 
+ Some other plugin
+ https://github.com/GoogleContainerTools/jib/tree/master/jib-maven-plugin   
