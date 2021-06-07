@@ -31,6 +31,8 @@ http://localhost:8085/swagger-ui.html
 
 
 **Build Images using maven docker spotify plugin**
-    `* Add plugin in pom.xml
+ https://github.com/spotify/docker-maven-plugin
+ 
+    * Add plugin in pom.xml
     * run maven command 
-     * mvn package`
+    * mvn package
